@@ -1,3 +1,3 @@
 # Monte Carlo Pi
 
-An Implementation of the classic Monte Carlo algorithm to calculate the value of PI Using Raylib and C++.
+An Implementation, Using Raylib and C++, of the classic Monte Carlo algorithm to calculate the value of PI.
